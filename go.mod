@@ -1,4 +1,4 @@
-module github.com/ip2whois/ip2whois-go@v1.0.0
+module github.com/ip2whois/ip2whois-go/v1 @v1.0.0
 
 go 1.18
 
