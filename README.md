@@ -12,7 +12,7 @@ Installation
 To install this package type the following:
 
 ```
-go get github.com/ip2whois/ip2whois-go/v1
+go get github.com/ip2whois/ip2whois-go
 ```
 
 
@@ -23,7 +23,7 @@ Usage Example
 package main
 
 import (
-	"github.com/ip2whois/ip2whois-go/v1"
+	"github.com/ip2whois/ip2whois-go"
 	"fmt"
 )
 
@@ -105,7 +105,7 @@ func main() {
 package main
 
 import (
-	"github.com/ip2whois/ip2whois-go/v1"
+	"github.com/ip2whois/ip2whois-go"
 	"fmt"
 )
 
@@ -126,7 +126,7 @@ func main() {
 package main
 
 import (
-	"github.com/ip2whois/ip2whois-go/v1"
+	"github.com/ip2whois/ip2whois-go"
 	"fmt"
 )
 
