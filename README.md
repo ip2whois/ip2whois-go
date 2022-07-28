@@ -1,4 +1,4 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/ip2whois/ip2who-go)](https://goreportcard.com/report/github.com/ip2whois/ip2whois-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ip2whois/ip2whois-go)](https://goreportcard.com/report/github.com/ip2whois/ip2whois-go)
 
 IP2WHOIS Go Package
 =======================
