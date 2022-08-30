@@ -142,6 +142,48 @@ func main() {
 }
 ```
 
+### Return the Domain Name from an URL
+```go
+package main
+
+import (
+	"github.com/ip2whois/ip2whois-go"
+	"fmt"
+)
+
+func main() {
+	testURL := "https://www.example.com/exe"
+	res, err := api.GetDomainName(testURL)
+	
+	if err != nil {
+		fmt.Print(err)
+		return
+	}
+	fmt.Printf("%+v => %+v\n", testURL, res);
+}
+```
+
+### Return the Domain Extension from an URL/domain
+```go
+package main
+
+import (
+	"github.com/ip2whois/ip2whois-go"
+	"fmt"
+)
+
+func main() {
+	testURL := "https://www.example.com/exe"
+	res, err := api.GetDomainExtension(testURL)
+	
+	if err != nil {
+		fmt.Print(err)
+		return
+	}
+	fmt.Printf("%+v => %+v\n", testURL, res);
+}
+```
+
 
 Response Parameter
 ==================
