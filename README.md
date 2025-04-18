@@ -1,5 +1,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/ip2whois/ip2whois-go)](https://goreportcard.com/report/github.com/ip2whois/ip2whois-go)
 
+**_Please note that this GitHub project is no longer being maintained and has been migrated to a new repository. We recommend that you use the [IP2Location.io Go SDK](https://github.com/ip2location/ip2location-io-go) going forward._**
+
 IP2WHOIS Go Package
 =======================
 
